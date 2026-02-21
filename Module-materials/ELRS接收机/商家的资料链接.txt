@@ -1,0 +1,12 @@
+1、接收机固件下载：
+https://pan.baidu.com/s/1Am5sK-FNafpQ-O5kHTAF4A?pwd=1234 
+提取码：1234
+2、ELRS接收机焊线和安装天线教程
+https://www.bilibili.com/video/BV1NgkCY5EMX/?spm_id_from=333.1387.search.video_card.click&vd_source=1e880817fa3f9579a57ebe7f9d79500b
+3、F4V3PLUS飞控焊接ELRS接收机教程
+https://www.bilibili.com/video/BV119k1YQEn5/?spm_id_from=333.1387.search.video_card.click&vd_source=1e880817fa3f9579a57ebe7f9d79500b
+4、ELRS接收机焊接
+https://www.bilibili.com/video/BV1zrm8YVEer/?spm_id_from=333.1387.search.video_card.click
+5、T15遥控器如何对频ELRS接收机
+https://www.bilibili.com/video/BV1BBsBeZEHL/?spm_id_from=333.1387.search.video_card.click&vd_source=1e880817fa3f9579a57ebe7f9d79500b
+6、接收机供电是5v 注意5v正 G是负极不能焊反会烧，注意焊接时候静电，焊接飞控的时候参考第三条焊接，交叉焊到飞控的端口上 协议选择CRSF

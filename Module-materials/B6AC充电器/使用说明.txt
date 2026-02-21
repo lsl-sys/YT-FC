@@ -1,0 +1,10 @@
+B6充电器中文说明书
+https://max.book118.com/html/2021/1122/5012240342004114.shtm
+1、B6AC充电电器切换模式
+https://www.bilibili.com/video/BV1pP411J7z4/?spm_id_from=333.1387.search.video_card.click
+2、B6AC充电器快速充电锂电池(XT60版)
+https://www.bilibili.com/video/BV1Z14y187KB/?spm_id_from=333.1387.search.video_card.click
+3、B6AC充电器并充板连接使用（XT60T插版）
+https://www.bilibili.com/video/BV1ue4y1q7ni/?spm_id_from=333.1387.search.video_card.click&vd_source=1e880817fa3f9579a57ebe7f9d79500b
+关于充电器收到以后可以看上面的视频进行充电，平衡头和香蕉头4.0插头都要连接到电池上，1s电池除外，部分电池需要转接线插头。最大充电电流是6a ，比如3s 2200的电池，我们可以选 2a电流，11v的截止电压。
+切记充电的时候远离任何易燃物品，建议空旷地方充电，建议有人值守。（一定不要选择错误模式充电以免发生危险）有任何问题请第一时间咨询售后客服，得到反馈后在进行操作。
