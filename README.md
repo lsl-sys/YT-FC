@@ -55,7 +55,7 @@ YT-FC/
 
 ## 微信小程序调参
 
-配合PCB中DAP-ESP32S3微信蓝牙调参小程序 **"lsl-sys"**  或  **"VoFA+"** 软件可实现无线调参功能，该小程序支持VOFA+协议，可实时调整PID参数。(透传代码参考https://github.com/lsl-sys/ESP32S3-DevBoard或嘉立创广场搜索DAP)
+配合PCB中DAP-ESP32S3微信蓝牙调参小程序 **"lsl-sys"**  或  **"VoFA+"** 软件可实现无线调参功能，该小程序支持VOFA+协议，可实时调整PID参数。(透传代码参考https://github.com/lsl-sys/ESP32S3-DevBoard 或嘉立创广场搜索DAP)
 
 ## 实物展示
 
